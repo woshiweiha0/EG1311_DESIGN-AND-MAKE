@@ -27,7 +27,7 @@ Our team designed and built an autonomous robot capable of:
 
 - Developed and debugged the **Arduino source code** for the robot’s sensors and actuation
 - Designed and tested the circuitry using **TinkerCAD** for layout and connections
-- Assisted in designing the robot chassis and catapult using **Fusion 360**
+- Assisted in designing the robot chassis and catapult using **Fusion360**
 
 ---
 
