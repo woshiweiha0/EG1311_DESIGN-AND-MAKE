@@ -34,7 +34,7 @@ Our team designed and built an autonomous robot capable of:
 ## Team Contributions
 
 - Produced multiple design iterations from initial mock-ups to the final working robot
-- Created detailed **Fusion 360 CAD models** for the robot structure and catapult
+- Created detailed **Fusion360 CAD models** for the robot structure and catapult
 - Documented the entire design and testing process in the final report
 
 ---
